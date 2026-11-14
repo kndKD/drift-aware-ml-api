@@ -6,6 +6,7 @@ All notable changes, generated from Conventional Commits.
 - add FastAPI skeleton with health endpoint
 
 ## Documentation
+- update CHANGELOG.md [skip ci]
 - add README
 - update CHANGELOG.md [skip ci]
 - add architecture doc
@@ -18,6 +19,7 @@ All notable changes, generated from Conventional Commits.
 - add GitHub Actions workflow
 
 ## Chores
+- add gitignore, license and changelog
 - add dev requirements and ruff config
 - add dev requirements and ruff config
 
