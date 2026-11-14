@@ -6,6 +6,8 @@ All notable changes, generated from Conventional Commits.
 - add FastAPI skeleton with health endpoint
 
 ## Documentation
+- add README
+- update CHANGELOG.md [skip ci]
 - add architecture doc
 - update CHANGELOG.md [skip ci]
 
